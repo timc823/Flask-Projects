@@ -8,4 +8,4 @@ There are three stages of the project:
 2. Complete Functions - Includes more python functions and complete website.
 3. Complete Website - Includes python functions and completed CSS design.
 
-For more details, please visit each individual folder. 
+For more details, please visit each individual folder.  
